@@ -8,4 +8,4 @@ Kurtuluş Kerem Şahin \
 Oğuzhan Şenbaş \
 Onat Deniz Doğan \
 Baturalp Kaya \
-Furkan Çitil \
+Furkan Çitil
